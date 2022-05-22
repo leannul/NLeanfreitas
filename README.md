@@ -1,35 +1,50 @@
-# <h1 align="center" >Welcome to my perfil</h1>
+<img align="right" height="590em"
+ src="https://raw.githubusercontent.com/gist/NLeanfreitas/417aa62b3eff89b92a7d03a84bfa67c8/raw/d3ac2c5b34eae3a1cf670c0a07ccfbed80900fd1/githubcard.svg"/>
+ 
+ <h1 align="center" >Welcome i'm NL</h1>
+
+- 🎲 I like Riddles,Puzzles,Logic Games and Chess♟️
+
+- 🎹 Sometimes I play piano
+ 
+- 👌I only post private projects of my interests👌
+ 
+- <img width="2.5%" src="https://user-images.githubusercontent.com/81381897/169704422-cc39caf3-95f7-4c8a-afac-719c3945c410.png"/> it's my watermark in projects
 
 
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=NLeanfreitas&show_icons=true&theme=dark" />
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLeanfreitas&layout=compact&theme=dark" />
-  
-  
-  
-  
-  
-  ## <br /> Habilidades: 
-  
- <img align="left" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="left" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
- <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img align="left" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
- <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br/>
-  
-  ## <br /> Contato: 
-  <h4>E-mail: ifleandrofreitasistrue@gmail.com</h4>
-  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ ## <br /> 🛠 &nbsp;Tech Stack 
+ 
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+ ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+ ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+ ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+ ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 <br/>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img  width="530em" src="https://github-readme-stats.vercel.app/api?username=NLeanfreitas&show_icons=true&theme=dark" alt="NL stats" />
+<img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NLeanfreitas&layout=compact&theme=dark" alt="NL most languages" />
+ </p>
+ 
 
   
-## <h1>...<img width="2%" src= "https://user-images.githubusercontent.com/81381897/169610151-e895399a-e089-4a7c-881b-b013c7a76b64.png" /></h1>
+  ## <br /> ✉ Social Links
+  
+  <p align="left" style"background=gray">
+  <a href="https://www.youtube.com/channel/UClSqDDbtTh1o8C7GAoAT_Wg" taget="_blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FFFFFF?style=flat&logo=youtube&logoColor=black" alt="Youtube" />
+  </a>
+  <a href="https://mail.google.com/mail/u/3/#inbox" taget="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=black" alt="G-Mail" />
+  </a>
+  </p>
+ 
+<br/>
 
 
 
