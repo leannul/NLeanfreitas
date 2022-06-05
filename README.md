@@ -1,5 +1,5 @@
 <img align="right" height="480em"
- src="https://raw.githubusercontent.com/gist/NLeanfreitas/417aa62b3eff89b92a7d03a84bfa67c8/raw/d3ac2c5b34eae3a1cf670c0a07ccfbed80900fd1/githubcard.svg"/>
+ src="https://user-images.githubusercontent.com/81381897/172041209-6cb2a206-1a2e-49f5-8198-b81de65cf542.png"/>
  
  <h1 align="center" >Welcome i'm NL</h1>
 
