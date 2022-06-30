@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=180&section=header&text=Welcome&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009393&height=180&section=header&text=Welcome&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Leandro+Freitas;I'm+17+years+old;Graduated+in+IT++at+Senac;Thanks+for+accessing+my+perfil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00f&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Leandro+Freitas;I'm+17+years+old;Graduated+in+IT++at+Senac;Thanks+for+accessing+my+perfil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=NLeanfreitas&show_icons=true&theme=github_dark" alt="Lean stats" />
@@ -19,4 +19,4 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 <br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009393&height=120&section=footer"/>
